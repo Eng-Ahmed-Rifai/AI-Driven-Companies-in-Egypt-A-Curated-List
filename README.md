@@ -1,2 +1,3 @@
 # AI_Tasks
-"Repo for tasks"
+Task num 1 in Instant course AI
+**AI comp & Startups in Egypt**
