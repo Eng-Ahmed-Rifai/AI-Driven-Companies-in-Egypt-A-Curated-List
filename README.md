@@ -7,7 +7,7 @@ This repository provides a curated list of the top AI-driven companies in Egypt.
 
 ## AI-Driven Companies in Egypt
 
-Here is a list of the top 15 AI-driven companies in Egypt:
+a list of the top 15 AI-driven companies in Egypt:
 
 1. [EPSILON AI](https://epsiloneg.com)
    - Area of Interest: Machine learning, Deep learning, Computer vision, Speech, Social Media analytics, Big data, Embedded Software
